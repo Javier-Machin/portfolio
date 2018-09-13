@@ -3,9 +3,17 @@
 .header {
   
   &__random-text {
-    font-size: $default-font-size;
-    color: $color-blue;
-    background: $color-black;
-  }
+    
+    &--top {
+      font-size: $default-font-size;
+      color: $color-blue;
+      background: $color-black;
+    }
 
+    &--bottom {
+      font-size: $default-font-size;
+      color: $color-black;
+      background: $color-blue;
+    }
+  }
 }
