@@ -1,0 +1,11 @@
+@import "abstracts/variables";
+
+.header {
+  
+  &__random-text {
+    font-size: $default-font-size;
+    color: $color-blue;
+    background: $color-black;
+  }
+
+}

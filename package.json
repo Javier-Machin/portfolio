@@ -1,0 +1,28 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Javier Machin's portfolio",
+  "private": true,
+  "scripts": {
+    "server": "npm-run-all --parallel live-server watch:sass watch:js",
+    "live-server": "live-server --open='dist/index.html'",
+    "watch:sass": "node-sass src/sass/main.scss dist/styles/style.css --output-style compressed -w",
+    "watch:js": "webpack -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Javier-Machin/portfolio.git"
+  },
+  "author": "Javier Machin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Javier-Machin/portfolio/issues"
+  },
+  "homepage": "https://github.com/Javier-Machin/portfolio#readme",
+  "devDependencies": {
+    "npm-run-all": "^4.1.3",
+    "webpack": "^4.16.5",
+    "webpack-cli": "^3.1.0",
+    "node-sass": "^4.9.3"
+  }
+}
