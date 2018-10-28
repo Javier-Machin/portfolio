@@ -1,13 +1,13 @@
 {
   "main.css": "/portfolio/static/css/main.fc305386.chunk.css",
-  "main.js": "/portfolio/static/js/main.762099ff.chunk.js",
-  "main.js.map": "/portfolio/static/js/main.762099ff.chunk.js.map",
+  "main.js": "/portfolio/static/js/main.467ba8bd.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.467ba8bd.chunk.js.map",
   "static/js/1.f597868a.chunk.js": "/portfolio/static/js/1.f597868a.chunk.js",
   "static/js/1.f597868a.chunk.js.map": "/portfolio/static/js/1.f597868a.chunk.js.map",
   "runtime~main.js": "/portfolio/static/js/runtime~main.ee2a1003.js",
   "runtime~main.js.map": "/portfolio/static/js/runtime~main.ee2a1003.js.map",
   "static/media/Reactweather2s.jpg": "/portfolio/static/media/Reactweather2s.e4c17f6d.jpg",
-  "static/media/Invader1s.jpg": "/portfolio/static/media/Invader1s.b9775bba.jpg",
+  "static/media/Invader1s.jpg": "/portfolio/static/media/Invader1s.5f648626.jpg",
   "static/media/Lanzaroteoverview1s.jpg": "/portfolio/static/media/Lanzaroteoverview1s.d949d8a1.jpg",
   "static/media/Reactreadlist1s.jpg": "/portfolio/static/media/Reactreadlist1s.187b82a4.jpg",
   "static/media/Reactweather1s.jpg": "/portfolio/static/media/Reactweather1s.0f5d7bb4.jpg",
@@ -25,6 +25,6 @@
   "static/media/Flightbooker2s.jpg": "/portfolio/static/media/Flightbooker2s.890babd2.jpg",
   "static/css/main.fc305386.chunk.css.map": "/portfolio/static/css/main.fc305386.chunk.css.map",
   "index.html": "/portfolio/index.html",
-  "precache-manifest.8e360791898a5c6acacd02016b945541.js": "/portfolio/precache-manifest.8e360791898a5c6acacd02016b945541.js",
+  "precache-manifest.4d22fc38c9ab348033f230d3683a27bf.js": "/portfolio/precache-manifest.4d22fc38c9ab348033f230d3683a27bf.js",
   "service-worker.js": "/portfolio/service-worker.js"
 }
