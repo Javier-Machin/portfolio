@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "ab56bcd8aff7322dfd27b08f8e9fcf7c",
-    "url": "/portfolio/static/media/Invader2s.ab56bcd8.jpg"
+    "revision": "3f6e68877f66cc9987fcbb203a7cac15",
+    "url": "/portfolio/static/media/Visualbasicnet.3f6e6887.png"
   },
   {
-    "revision": "467ba8bdbc7743208777",
-    "url": "/portfolio/static/css/main.fc305386.chunk.css"
+    "revision": "df8034103d4ca29abc19",
+    "url": "/portfolio/static/css/main.38ed89e1.chunk.css"
   },
   {
-    "revision": "f597868aa9903c47c867",
-    "url": "/portfolio/static/js/1.f597868a.chunk.js"
+    "revision": "8e5943680263c1dae69b",
+    "url": "/portfolio/static/js/1.8e594368.chunk.js"
   },
   {
     "revision": "ee2a100325fd284f0097",
@@ -44,8 +44,12 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/profile.799c8132.jpg"
   },
   {
-    "revision": "467ba8bdbc7743208777",
-    "url": "/portfolio/static/js/main.467ba8bd.chunk.js"
+    "revision": "df8034103d4ca29abc19",
+    "url": "/portfolio/static/js/main.df803410.chunk.js"
+  },
+  {
+    "revision": "ab56bcd8aff7322dfd27b08f8e9fcf7c",
+    "url": "/portfolio/static/media/Invader2s.ab56bcd8.jpg"
   },
   {
     "revision": "e206fbf85842d9d58717bbfe1decb99a",
@@ -84,7 +88,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/Flightbooker2s.890babd2.jpg"
   },
   {
-    "revision": "30e7daba381a29d6ebdbe3bb9a4a00c5",
+    "revision": "1a31992f9f3703f114ad0761079de8c9",
     "url": "/portfolio/index.html"
   }
 ];
