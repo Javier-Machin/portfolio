@@ -1,9 +1,9 @@
 {
-  "main.css": "/portfolio/static/css/main.38ed89e1.chunk.css",
-  "main.js": "/portfolio/static/js/main.7334aea3.chunk.js",
-  "main.js.map": "/portfolio/static/js/main.7334aea3.chunk.js.map",
-  "static/js/1.15806ded.chunk.js": "/portfolio/static/js/1.15806ded.chunk.js",
-  "static/js/1.15806ded.chunk.js.map": "/portfolio/static/js/1.15806ded.chunk.js.map",
+  "main.css": "/portfolio/static/css/main.bc4210ba.chunk.css",
+  "main.js": "/portfolio/static/js/main.6b54493e.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.6b54493e.chunk.js.map",
+  "static/js/1.68f65ab0.chunk.js": "/portfolio/static/js/1.68f65ab0.chunk.js",
+  "static/js/1.68f65ab0.chunk.js.map": "/portfolio/static/js/1.68f65ab0.chunk.js.map",
   "runtime~main.js": "/portfolio/static/js/runtime~main.ee2a1003.js",
   "runtime~main.js.map": "/portfolio/static/js/runtime~main.ee2a1003.js.map",
   "static/media/Reactweather2s.jpg": "/portfolio/static/media/Reactweather2s.e4c17f6d.jpg",
@@ -25,8 +25,8 @@
   "static/media/Reactweather3.gif": "/portfolio/static/media/Reactweather3.6fc77b12.gif",
   "static/media/Flightbooker2s.jpg": "/portfolio/static/media/Flightbooker2s.890babd2.jpg",
   "static/media/TOP.png": "/portfolio/static/media/TOP.250f3721.png",
-  "static/css/main.38ed89e1.chunk.css.map": "/portfolio/static/css/main.38ed89e1.chunk.css.map",
+  "static/css/main.bc4210ba.chunk.css.map": "/portfolio/static/css/main.bc4210ba.chunk.css.map",
   "index.html": "/portfolio/index.html",
-  "precache-manifest.195c30b5a7727ec153fd1f4b063790d8.js": "/portfolio/precache-manifest.195c30b5a7727ec153fd1f4b063790d8.js",
+  "precache-manifest.1117f9f74b1ff02a129154e491f9a97d.js": "/portfolio/precache-manifest.1117f9f74b1ff02a129154e491f9a97d.js",
   "service-worker.js": "/portfolio/service-worker.js"
 }
