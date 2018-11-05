@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/Invader2s.ab56bcd8.jpg"
   },
   {
-    "revision": "6b54493e08f7ebc7cd9c",
-    "url": "/portfolio/static/css/main.bc4210ba.chunk.css"
+    "revision": "3ad0479eb14a7dd55b66",
+    "url": "/portfolio/static/css/main.f864aab2.chunk.css"
   },
   {
     "revision": "68f65ab0065b0559551a",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/Reactreadlist1s.187b82a4.jpg"
   },
   {
-    "revision": "0f5d7bb4eca6c381a04325d4d4a58979",
-    "url": "/portfolio/static/media/Reactweather1s.0f5d7bb4.jpg"
+    "revision": "4e1f9203c6b426f37c25b5bb8b5abd7a",
+    "url": "/portfolio/static/media/Reactweather1s.4e1f9203.jpg"
   },
   {
     "revision": "f0ac5ebf4e0be49812d4b0615eed75d4",
@@ -48,8 +48,8 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/Visualbasicnet.3f6e6887.png"
   },
   {
-    "revision": "6b54493e08f7ebc7cd9c",
-    "url": "/portfolio/static/js/main.6b54493e.chunk.js"
+    "revision": "3ad0479eb14a7dd55b66",
+    "url": "/portfolio/static/js/main.3ad0479e.chunk.js"
   },
   {
     "revision": "e206fbf85842d9d58717bbfe1decb99a",
@@ -76,12 +76,12 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/Reactreadlist3.d3f468ad.gif"
   },
   {
-    "revision": "e4c17f6d578adb49ca49550b9972cf8f",
-    "url": "/portfolio/static/media/Reactweather2s.e4c17f6d.jpg"
+    "revision": "dd1d10685da76d18191b88f21c221a56",
+    "url": "/portfolio/static/media/Reactweather2s.dd1d1068.jpg"
   },
   {
-    "revision": "6fc77b1278e71c53682360208e5a3443",
-    "url": "/portfolio/static/media/Reactweather3.6fc77b12.gif"
+    "revision": "b9d0a804c85b5e2c81c6b1fd3d1262ec",
+    "url": "/portfolio/static/media/Reactweather3.b9d0a804.gif"
   },
   {
     "revision": "890babd2d03f55592c0a74c7330dc821",
@@ -92,7 +92,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/TOP.250f3721.png"
   },
   {
-    "revision": "48a050a29de46fb299ab8177e88252b8",
+    "revision": "62d2b2d34a56fbb86f8f9e9e4084020e",
     "url": "/portfolio/index.html"
   }
 ];
