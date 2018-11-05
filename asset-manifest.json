@@ -1,7 +1,7 @@
 {
-  "main.css": "/portfolio/static/css/main.f864aab2.chunk.css",
-  "main.js": "/portfolio/static/js/main.3ad0479e.chunk.js",
-  "main.js.map": "/portfolio/static/js/main.3ad0479e.chunk.js.map",
+  "main.css": "/portfolio/static/css/main.0617db54.chunk.css",
+  "main.js": "/portfolio/static/js/main.5e381152.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.5e381152.chunk.js.map",
   "static/js/1.68f65ab0.chunk.js": "/portfolio/static/js/1.68f65ab0.chunk.js",
   "static/js/1.68f65ab0.chunk.js.map": "/portfolio/static/js/1.68f65ab0.chunk.js.map",
   "runtime~main.js": "/portfolio/static/js/runtime~main.ee2a1003.js",
@@ -25,8 +25,8 @@
   "static/media/Reactweather3.gif": "/portfolio/static/media/Reactweather3.b9d0a804.gif",
   "static/media/Flightbooker2s.jpg": "/portfolio/static/media/Flightbooker2s.890babd2.jpg",
   "static/media/TOP.png": "/portfolio/static/media/TOP.250f3721.png",
-  "static/css/main.f864aab2.chunk.css.map": "/portfolio/static/css/main.f864aab2.chunk.css.map",
+  "static/css/main.0617db54.chunk.css.map": "/portfolio/static/css/main.0617db54.chunk.css.map",
   "index.html": "/portfolio/index.html",
-  "precache-manifest.2a55a7d60b5388ea64d81082b79fda72.js": "/portfolio/precache-manifest.2a55a7d60b5388ea64d81082b79fda72.js",
+  "precache-manifest.b64fe498e041a5c405a3bb244a45ccb9.js": "/portfolio/precache-manifest.b64fe498e041a5c405a3bb244a45ccb9.js",
   "service-worker.js": "/portfolio/service-worker.js"
 }
