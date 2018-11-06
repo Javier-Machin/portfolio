@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/Invader2s.ab56bcd8.jpg"
   },
   {
-    "revision": "f55782fb1483a85b6bf1",
+    "revision": "0fe199c37cd27a1e38bc",
     "url": "/portfolio/static/css/main.2cfd7cf0.chunk.css"
   },
   {
@@ -48,8 +48,8 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/Visualbasicnet.3f6e6887.png"
   },
   {
-    "revision": "f55782fb1483a85b6bf1",
-    "url": "/portfolio/static/js/main.f55782fb.chunk.js"
+    "revision": "0fe199c37cd27a1e38bc",
+    "url": "/portfolio/static/js/main.0fe199c3.chunk.js"
   },
   {
     "revision": "e206fbf85842d9d58717bbfe1decb99a",
@@ -92,7 +92,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/TOP.250f3721.png"
   },
   {
-    "revision": "91604a9eba437716b38b89246c022920",
+    "revision": "e67bcc4a848ef189e8f54825a6ac2e62",
     "url": "/portfolio/index.html"
   }
 ];
