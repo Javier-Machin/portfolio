@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/Invader2s.ab56bcd8.jpg"
   },
   {
-    "revision": "bfcb19f91ef976129aaa",
+    "revision": "5cd315ed8ba09ff41cdc",
     "url": "/static/css/main.34bd0174.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/static/media/Invader1s.5f648626.jpg"
   },
   {
-    "revision": "817cf16cb7329cca782e19c8ccb55cf1",
-    "url": "/static/media/Socialboost1s.817cf16c.jpg"
+    "revision": "fbb8f12b900581c596e0a358ac57753b",
+    "url": "/static/media/Socialboost1s.fbb8f12b.jpg"
   },
   {
     "revision": "d949d8a1f9fa748b2bc1507040f25ffc",
@@ -48,20 +48,20 @@ self.__precacheManifest = [
     "url": "/static/media/Visualbasicnet.3f6e6887.png"
   },
   {
-    "revision": "bfcb19f91ef976129aaa",
-    "url": "/static/js/main.bfcb19f9.chunk.js"
+    "revision": "5cd315ed8ba09ff41cdc",
+    "url": "/static/js/main.5cd315ed.chunk.js"
   },
   {
     "revision": "e206fbf85842d9d58717bbfe1decb99a",
     "url": "/static/media/Invader.e206fbf8.gif"
   },
   {
-    "revision": "060215220be8acd792f75ae1b2e0df54",
-    "url": "/static/media/Socialboost2s.06021522.jpg"
+    "revision": "2265c532c5c567e5ae270803e0d640cc",
+    "url": "/static/media/Socialboost2s.2265c532.jpg"
   },
   {
-    "revision": "3dc4b282fbe25ff87e3cee6af539f4fc",
-    "url": "/static/media/Socialboost3s.3dc4b282.jpg"
+    "revision": "41cdb4e3bbb012d4291c404f6c75bf09",
+    "url": "/static/media/Socialboost3s.41cdb4e3.jpg"
   },
   {
     "revision": "641dd2c3429565873a64b8f5bbd6dc96",
@@ -96,7 +96,7 @@ self.__precacheManifest = [
     "url": "/static/media/TOP.250f3721.png"
   },
   {
-    "revision": "8298c18a47276d0260adcd0e06cdfa4b",
+    "revision": "fd8bcd6ff5e3fcbf8df83890ed3b389d",
     "url": "/index.html"
   }
 ];
