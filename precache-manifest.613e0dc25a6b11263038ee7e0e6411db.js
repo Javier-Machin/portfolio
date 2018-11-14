@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/Invader2s.ab56bcd8.jpg"
   },
   {
-    "revision": "5cd315ed8ba09ff41cdc",
+    "revision": "6791aec04a8d4212ad6d",
     "url": "/static/css/main.34bd0174.chunk.css"
   },
   {
@@ -48,8 +48,8 @@ self.__precacheManifest = [
     "url": "/static/media/Visualbasicnet.3f6e6887.png"
   },
   {
-    "revision": "5cd315ed8ba09ff41cdc",
-    "url": "/static/js/main.5cd315ed.chunk.js"
+    "revision": "6791aec04a8d4212ad6d",
+    "url": "/static/js/main.6791aec0.chunk.js"
   },
   {
     "revision": "e206fbf85842d9d58717bbfe1decb99a",
@@ -84,8 +84,8 @@ self.__precacheManifest = [
     "url": "/static/media/Reactweather3.b9d0a804.gif"
   },
   {
-    "revision": "0082f518477e53693706d472bf0a4d4d",
-    "url": "/static/media/Flightbooker2s.0082f518.jpg"
+    "revision": "47a05365d3ab432d0d828d3b1fd0a678",
+    "url": "/static/media/Flightbooker2s.47a05365.jpg"
   },
   {
     "revision": "236381a2d6692865b15606099bbbcf70",
@@ -96,7 +96,7 @@ self.__precacheManifest = [
     "url": "/static/media/TOP.250f3721.png"
   },
   {
-    "revision": "fd8bcd6ff5e3fcbf8df83890ed3b389d",
+    "revision": "58ed1a4eb66e23488c312c31d282282c",
     "url": "/index.html"
   }
 ];
