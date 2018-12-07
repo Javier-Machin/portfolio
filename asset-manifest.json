@@ -1,13 +1,13 @@
 {
   "main.css": "/static/css/main.34bd0174.chunk.css",
-  "main.js": "/static/js/main.5c0a496c.chunk.js",
-  "main.js.map": "/static/js/main.5c0a496c.chunk.js.map",
+  "main.js": "/static/js/main.935b02c1.chunk.js",
+  "main.js.map": "/static/js/main.935b02c1.chunk.js.map",
   "static/js/1.f39b1f35.chunk.js": "/static/js/1.f39b1f35.chunk.js",
   "static/js/1.f39b1f35.chunk.js.map": "/static/js/1.f39b1f35.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
   "static/media/Reactweather2s.jpg": "/static/media/Reactweather2s.dd1d1068.jpg",
-  "static/media/Invader1s.jpg": "/static/media/Invader1s.5f648626.jpg",
+  "static/media/Invader1s.jpg": "/static/media/Invader1s.171aced7.jpg",
   "static/media/Lanzaroteoverview1s.jpg": "/static/media/Lanzaroteoverview1s.d949d8a1.jpg",
   "static/media/Reactreadlist1s.jpg": "/static/media/Reactreadlist1s.187b82a4.jpg",
   "static/media/Reactweather1s.jpg": "/static/media/Reactweather1s.4e1f9203.jpg",
@@ -28,6 +28,6 @@
   "static/media/TOP.png": "/static/media/TOP.250f3721.png",
   "static/css/main.34bd0174.chunk.css.map": "/static/css/main.34bd0174.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.d9cf4cedaafd3b265a84f32798769df5.js": "/precache-manifest.d9cf4cedaafd3b265a84f32798769df5.js",
+  "precache-manifest.c21388851952c327d97806a60fa533c4.js": "/precache-manifest.c21388851952c327d97806a60fa533c4.js",
   "service-worker.js": "/service-worker.js"
 }
