@@ -1,13 +1,13 @@
 {
   "main.css": "/static/css/main.ad75813c.chunk.css",
-  "main.js": "/static/js/main.d5db84e3.chunk.js",
-  "main.js.map": "/static/js/main.d5db84e3.chunk.js.map",
+  "main.js": "/static/js/main.0da06aa6.chunk.js",
+  "main.js.map": "/static/js/main.0da06aa6.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
   "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.c10edeca.chunk.js": "/static/js/2.c10edeca.chunk.js",
-  "static/js/2.c10edeca.chunk.js.map": "/static/js/2.c10edeca.chunk.js.map",
+  "static/js/2.c3170836.chunk.js": "/static/js/2.c3170836.chunk.js",
+  "static/js/2.c3170836.chunk.js.map": "/static/js/2.c3170836.chunk.js.map",
   "index.html": "/index.html",
-  "precache-manifest.836fc43716119d3da728d2a6d1bd2272.js": "/precache-manifest.836fc43716119d3da728d2a6d1bd2272.js",
+  "precache-manifest.b57065e1e7d828376e8c5a935cf7d772.js": "/precache-manifest.b57065e1e7d828376e8c5a935cf7d772.js",
   "service-worker.js": "/service-worker.js",
   "static/css/main.ad75813c.chunk.css.map": "/static/css/main.ad75813c.chunk.css.map",
   "static/media/Flightbooker1s.jpg": "/static/media/Flightbooker1s.7078b5b1.jpg",
@@ -29,5 +29,6 @@
   "static/media/Socialboost3s.jpg": "/static/media/Socialboost3s.41cdb4e3.jpg",
   "static/media/TOP.png": "/static/media/TOP.250f3721.png",
   "static/media/Visualbasicnet.png": "/static/media/Visualbasicnet.3f6e6887.png",
+  "static/media/graphql.png": "/static/media/graphql.fa5a02dc.png",
   "static/media/profile.jpg": "/static/media/profile.e5e23835.jpg"
 }
