@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "aba4516bb9291a8ad299",
+    "revision": "9242ef8672196184795c",
     "url": "/static/css/main.ad75813c.chunk.css"
   },
   {
-    "revision": "aba4516bb9291a8ad299",
-    "url": "/static/js/main.502d0680.chunk.js"
+    "revision": "9242ef8672196184795c",
+    "url": "/static/js/main.d7cb4ada.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/static/js/2.c3170836.chunk.js"
   },
   {
-    "revision": "171aced7b1942c6a373e0b0a2b509d6e",
-    "url": "/static/media/Invader1s.171aced7.jpg"
+    "revision": "ca8724b33f95c1506a06ee7bbdc8a993",
+    "url": "/static/media/Invader2s.ca8724b3.jpg"
   },
   {
     "revision": "2265c532c5c567e5ae270803e0d640cc",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/static/media/Lanzaroteoverview1s.d949d8a1.jpg"
   },
   {
-    "revision": "187b82a4b29b196e41a2f5cdc225b9fd",
-    "url": "/static/media/Reactreadlist1s.187b82a4.jpg"
+    "revision": "2e27309185cc9d58850bdbf539b11502",
+    "url": "/static/media/Reactreadlist2s.2e273091.jpg"
   },
   {
     "revision": "4e1f9203c6b426f37c25b5bb8b5abd7a",
@@ -52,8 +52,8 @@ self.__precacheManifest = [
     "url": "/static/media/graphql.fa5a02dc.png"
   },
   {
-    "revision": "ca8724b33f95c1506a06ee7bbdc8a993",
-    "url": "/static/media/Invader2s.ca8724b3.jpg"
+    "revision": "171aced7b1942c6a373e0b0a2b509d6e",
+    "url": "/static/media/Invader1s.171aced7.jpg"
   },
   {
     "revision": "e206fbf85842d9d58717bbfe1decb99a",
@@ -72,12 +72,12 @@ self.__precacheManifest = [
     "url": "/static/media/Lanzaroteoverview2s.641dd2c3.jpg"
   },
   {
-    "revision": "2e27309185cc9d58850bdbf539b11502",
-    "url": "/static/media/Reactreadlist2s.2e273091.jpg"
-  },
-  {
     "revision": "d3f468ad07cf9c65025655e0948ac9ad",
     "url": "/static/media/Reactreadlist3.d3f468ad.gif"
+  },
+  {
+    "revision": "187b82a4b29b196e41a2f5cdc225b9fd",
+    "url": "/static/media/Reactreadlist1s.187b82a4.jpg"
   },
   {
     "revision": "dd1d10685da76d18191b88f21c221a56",
@@ -100,7 +100,7 @@ self.__precacheManifest = [
     "url": "/static/media/TOP.250f3721.png"
   },
   {
-    "revision": "549fd8b279961668a04f8b8dc1765742",
+    "revision": "25bc9b436c0c21d0e7bcd0d595ce4f4c",
     "url": "/index.html"
   }
 ];
